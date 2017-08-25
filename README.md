@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Datasets by Furkan Gürsoy
 
-You can use the [editor on GitHub](https://github.com/furkangursoy/datasets/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the webpage where I share the datasets for public use.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Inploid
 
-### Markdown
+Inploid is a social question & answer website in Turkish. Users can follow others and see their questions and answers on the main page. Each user is associated with a reputability score which is influenced by feedback of others about questions and answers of the user. Each user can also specify interest in topics. The data is crawled in June 2017 and consist of 39,750 nodes and 57,276 directed links between them. In addition, for each user, reputability scores and top five topics are included in the dataset. Usernames and topics are anonymized.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please cite:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/furkangursoy/datasets/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
