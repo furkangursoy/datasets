@@ -10,4 +10,4 @@ Please cite:
 
 + F. Gürsoy and D. Günneç, “*Influence maximization in social networks under deterministic linear threshold model*,” ......................, pp. ...–..., 20...
 
-[Download](https://github.com/furkangursoy/datasets/blob/master/inploid.zip)
+[Click here to go to download page.](https://github.com/furkangursoy/datasets/blob/master/inploid.zip)
