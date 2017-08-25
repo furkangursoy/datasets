@@ -1,6 +1,6 @@
 ## Datasets by Furkan Gürsoy
 
-This is the webpage where I share the datasets for public use.
+This is the webpage where I share datasets for public use.
 
 ### Inploid
 
