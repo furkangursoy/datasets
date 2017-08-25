@@ -8,4 +8,5 @@ Inploid is a social question & answer website in Turkish. Users can follow other
 
 Please cite:
 
++ F. Gürsoy and D. Günneç, “*Influence maximization in social networks under deterministic linear threshold model*,” ......................, pp. ...–..., 20...
 
