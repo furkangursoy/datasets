@@ -17,20 +17,24 @@ Please cite:
 
 10 syhnthetically generated, undirected, unweighted networks with communities based on *ComAwareNetGrowth* model. More networks with different characteristics can be created by using the source code at https://github.com/furkangursoy/ComAwareNetGrowth. Refer to the published study for more information on how these networks are generated. 
 
-Below table presents certain network statistics for the 10 sample networks provided in this download. Dataset description and further information is available in the README file.
+Below table presents number of nodes, number of links, number of intended communities, clustering coefficient, average path length, modularity, diameter, and power law exponent for the 10 sample networks provided in this download. Dataset description and further information is available in the README file.
 
-| Network   | n     | m      | nOfCom         | ClusCoef              | AvgPathLen        | Modularity | Diameter | PowerLawExp      |
-|-----------|-------|--------|----------------|-----------------------|-------------------|------------|----------|------------------|
-| Network1  | 300   | 1600   | 3              | 0.12                  | 2.74              | 0.11       | 6        | 2.24             |
-| Network2  | 5000  | 18000  | 3              | 0.06                  | 4.33              | 0.27       | 10       | 2.57             |
-| Network3  | 9000  | 50000  | 6              | 0.05                  | 4.00              | 0.32       | 9        | 2.18             |
-| Network4  | 4000  | 50000  | 6              | 0.08                  | 3.07              | 0.58       | 6        | 1.72             |
-| Network5  | 1000  | 20000  | 4              | 0.15                  | 2.33              | 0.21       | 4        | 1.56             |
-| Network6  | 1000  | 2000   | 8              | 0.11                  | 5.08              | 0.22       | 11       | 3.24             |
-| Network7  | 500   | 2000   | 2              | 0.10                  | 3.28              | 0.22       | 8        | 2.35             |
-| Network8  | 1000  | 10000  | 4              | 0.11                  | 2.75              | 0.35       | 5        | 1.80             |
-| Network9  | 10000 | 30000  | 5              | 0.03                  | 4.80              | 0.48       | 12       | 2.56             |
-| Network10 | 42788 | 410736 | 10             | 0.04                  | 3.94              | 0.65       | 10       | 1.80             |
+<small>
+
+| ID | n     | m      | Com         | Clu              | AvgPath        | Mod         | Dia     | PowLaw      |
+|----|-------|--------|----------------|-----------------------|-------------------|------------|----------|------------------|
+| 1  | 300   | 1600   | 3              | 0.12                  | 2.74              | 0.11       | 6        | 2.24             |
+| 2  | 5000  | 18000  | 3              | 0.06                  | 4.33              | 0.27       | 10       | 2.57             |
+| 3  | 9000  | 50000  | 6              | 0.05                  | 4.00              | 0.32       | 9        | 2.18             |
+| 4  | 4000  | 50000  | 6              | 0.08                  | 3.07              | 0.58       | 6        | 1.72             |
+| 5  | 1000  | 20000  | 4              | 0.15                  | 2.33              | 0.21       | 4        | 1.56             |
+| 6  | 1000  | 2000   | 8              | 0.11                  | 5.08              | 0.22       | 11       | 3.24             |
+| 7  | 500   | 2000   | 2              | 0.10                  | 3.28              | 0.22       | 8        | 2.35             |
+| 8  | 1000  | 10000  | 4              | 0.11                  | 2.75              | 0.35       | 5        | 1.80             |
+| 9  | 10000 | 30000  | 5              | 0.03                  | 4.80              | 0.48       | 12       | 2.56             |
+| 10 | 42788 | 410736 | 10             | 0.04                  | 3.94              | 0.65       | 10       | 1.80             |
+
+<small/>
 
 Please cite:
 
