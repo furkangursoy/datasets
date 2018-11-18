@@ -8,7 +8,7 @@ Inploid is a social question & answer website in Turkish. Users can follow other
 
 Please cite:
 
-+ F. Gursoy and D. Gunnec, Influence maximization in social networks under deterministic linear threshold model, Knowledge-Based Systems. Accepted, 2018. https://doi.org/10.1016/j.knosys.2018.07.040
++ F. Gursoy and D. Gunnec, Influence maximization in social networks under deterministic linear threshold model, Knowledge-Based Systems (2018). https://doi.org/10.1016/j.knosys.2018.07.040
 
 [Click here to download.](https://github.com/furkangursoy/datasets/blob/master/inploid.zip?raw=true)
 
