@@ -15,7 +15,7 @@ Please cite:
 [Click here to download.](https://github.com/furkangursoy/datasets/blob/master/inploid.zip?raw=true)
 
 
-### Synthetics Networks with Communities based on ComAwareNetGrowth
+### Synthetic Networks with Communities based on ComAwareNetGrowth
 
 10 syhnthetically generated, undirected, unweighted networks with communities based on *ComAwareNetGrowth* model. More networks with different characteristics can be created by using the source code at https://github.com/furkangursoy/ComAwareNetGrowth. Refer to the published study for more information on how these networks are generated. 
 
